@@ -22,7 +22,7 @@
                     : " left-0 -ml-8 -translate-x-1/2")}
         >
             <div
-                class="rounded-full bg-slate-950 aspect-square h-2"
+                class="rounded-full bg-slate-950 aspect-square bg-slate-950 h-2"
             />
         </div>
         <div class="flex items-center gap-2">

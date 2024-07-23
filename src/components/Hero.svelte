@@ -5,7 +5,7 @@
     import Stars from "./Stars.svelte";
 </script>
 
-<SectionWrapper id=''>
+<SectionWrapper id="">
     <Header />
     <div
         class="flex flex-col gap-10 flex-1 items-center justify-center pb-10 md:pb-14"
@@ -25,7 +25,7 @@
                 >personalized workouts, exercise explanations, analytics</span
             > and much much more.
         </p>
-        <CtAs dark=''/>
+        <CtAs dark={false}/>
        <Stars/>
     </div>
 </SectionWrapper>

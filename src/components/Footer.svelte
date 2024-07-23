@@ -4,9 +4,9 @@
     >
         <div class="flex flex-col gap-4 md:col-span-2">
             <h1 class="font-semibold">
-                Gym <span class="text-indigo-400">Landing</span>
+                Geo <span class="text-indigo-400">Gym</span>
             </h1>
-            <p>©2024 GYM APP LTD. All rights reserved.</p>
+            <p>©2024 Geo Gym LTD. All rights reserved.</p>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>

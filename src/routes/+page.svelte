@@ -1,17 +1,17 @@
 <script>
   import Conversion from "../components/Conversion.svelte";
-import FaQs from "../components/FaQs.svelte";
+  import FAQs from "../components/FAQs.svelte";
   import Footer from "../components/Footer.svelte";
-import Hero from "../components/Hero.svelte";
+  import Hero from "../components/Hero.svelte";
   import Product from "../components/Product.svelte";
   import Reviews from "../components/Reviews.svelte";
-
 </script>
+
 <main class="flex flex-col">
-    <Hero />
-    <Product />
-    <Reviews />
-    <FaQs />
-    <Conversion />
-    <Footer />
+  <Hero />
+  <Product />
+  <Reviews />
+  <FAQs />
+  <Conversion />
+  <Footer />
 </main>
